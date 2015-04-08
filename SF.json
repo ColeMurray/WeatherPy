@@ -1,0 +1,2891 @@
+{
+      "hourly_forecast": [
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1017", 
+                        "english": "30.03"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "wdir": {
+                        "degrees": "278", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "51", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "73", 
+                  "uvi": "0", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "14", 
+                        "english": "9"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "10:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "96", 
+                        "weekday_name_night": "Tuesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "07", 
+                        "weekday_name": "Tuesday", 
+                        "epoch": "1428469200", 
+                        "month_name": "April", 
+                        "pretty": "10:00 PM PDT on April 07, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Tuesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "22", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Tuesday", 
+                        "mday": "7", 
+                        "hour": "22", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Tue"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.05"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "wdir": {
+                        "degrees": "275", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "52", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "73", 
+                  "uvi": "0", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "14", 
+                        "english": "9"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "11:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "96", 
+                        "weekday_name_night": "Tuesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "07", 
+                        "weekday_name": "Tuesday", 
+                        "epoch": "1428472800", 
+                        "month_name": "April", 
+                        "pretty": "11:00 PM PDT on April 07, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Tuesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "23", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Tuesday", 
+                        "mday": "7", 
+                        "hour": "23", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Tue"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.06"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "wdir": {
+                        "degrees": "270", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "52", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "74", 
+                  "uvi": "0", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "16", 
+                        "english": "10"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "12:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428476400", 
+                        "month_name": "April", 
+                        "pretty": "12:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "00", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "0", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.06"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "wdir": {
+                        "degrees": "266", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "12", 
+                  "sky": "54", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Few Showers", 
+                  "humidity": "75", 
+                  "uvi": "0", 
+                  "pop": "30", 
+                  "wspd": {
+                        "metric": "16", 
+                        "english": "10"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "1:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428480000", 
+                        "month_name": "April", 
+                        "pretty": "1:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "01", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "1", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Chance of Rain", 
+                  "icon": "chancerain"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1019", 
+                        "english": "30.08"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "wdir": {
+                        "degrees": "263", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "12", 
+                  "sky": "55", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Few Showers", 
+                  "humidity": "75", 
+                  "uvi": "0", 
+                  "pop": "31", 
+                  "wspd": {
+                        "metric": "14", 
+                        "english": "9"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "2:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428483600", 
+                        "month_name": "April", 
+                        "pretty": "2:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "02", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "2", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Chance of Rain", 
+                  "icon": "chancerain"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1019", 
+                        "english": "30.08"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "265", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "52", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "77", 
+                  "uvi": "0", 
+                  "pop": "19", 
+                  "wspd": {
+                        "metric": "11", 
+                        "english": "7"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "3:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428487200", 
+                        "month_name": "April", 
+                        "pretty": "3:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "03", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "3", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1019", 
+                        "english": "30.09"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "266", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "53", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "79", 
+                  "uvi": "0", 
+                  "pop": "9", 
+                  "wspd": {
+                        "metric": "10", 
+                        "english": "6"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "4:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428490800", 
+                        "month_name": "April", 
+                        "pretty": "4:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "04", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "4", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.11"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "272", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "41", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "13", 
+                  "wspd": {
+                        "metric": "8", 
+                        "english": "5"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "5:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428494400", 
+                        "month_name": "April", 
+                        "pretty": "5:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "05", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "5", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.12"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "262", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "31", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "11", 
+                  "wspd": {
+                        "metric": "5", 
+                        "english": "3"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "6:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428498000", 
+                        "month_name": "April", 
+                        "pretty": "6:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "06", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "6", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1021", 
+                        "english": "30.14"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "207", 
+                        "dir": "SSW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "35", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "79", 
+                  "uvi": "0", 
+                  "pop": "10", 
+                  "wspd": {
+                        "metric": "5", 
+                        "english": "3"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "7:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428501600", 
+                        "month_name": "April", 
+                        "pretty": "7:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "07", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "7", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1021", 
+                        "english": "30.15"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "45"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "wdir": {
+                        "degrees": "178", 
+                        "dir": "S"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "35", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "77", 
+                  "uvi": "0", 
+                  "pop": "11", 
+                  "wspd": {
+                        "metric": "3", 
+                        "english": "2"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "8:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428505200", 
+                        "month_name": "April", 
+                        "pretty": "8:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "08", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "8", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1022", 
+                        "english": "30.17"
+                  }, 
+                  "temp": {
+                        "metric": "12", 
+                        "english": "54"
+                  }, 
+                  "dewpoint": {
+                        "metric": "8", 
+                        "english": "46"
+                  }, 
+                  "feelslike": {
+                        "metric": "12", 
+                        "english": "54"
+                  }, 
+                  "wdir": {
+                        "degrees": "158", 
+                        "dir": "SSE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "41", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "73", 
+                  "uvi": "1", 
+                  "pop": "6", 
+                  "wspd": {
+                        "metric": "3", 
+                        "english": "2"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "9:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428508800", 
+                        "month_name": "April", 
+                        "pretty": "9:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "09", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "9", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1022", 
+                        "english": "30.19"
+                  }, 
+                  "temp": {
+                        "metric": "13", 
+                        "english": "56"
+                  }, 
+                  "dewpoint": {
+                        "metric": "8", 
+                        "english": "46"
+                  }, 
+                  "feelslike": {
+                        "metric": "13", 
+                        "english": "56"
+                  }, 
+                  "wdir": {
+                        "degrees": "203", 
+                        "dir": "SSW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "43", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "70", 
+                  "uvi": "3", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "3", 
+                        "english": "2"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "10:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428512400", 
+                        "month_name": "April", 
+                        "pretty": "10:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "10", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "10", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1022", 
+                        "english": "30.19"
+                  }, 
+                  "temp": {
+                        "metric": "14", 
+                        "english": "58"
+                  }, 
+                  "dewpoint": {
+                        "metric": "8", 
+                        "english": "46"
+                  }, 
+                  "feelslike": {
+                        "metric": "14", 
+                        "english": "58"
+                  }, 
+                  "wdir": {
+                        "degrees": "296", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "45", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "65", 
+                  "uvi": "5", 
+                  "pop": "3", 
+                  "wspd": {
+                        "metric": "3", 
+                        "english": "2"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "11:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428516000", 
+                        "month_name": "April", 
+                        "pretty": "11:00 AM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "11", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "11", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1022", 
+                        "english": "30.19"
+                  }, 
+                  "temp": {
+                        "metric": "15", 
+                        "english": "59"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "45"
+                  }, 
+                  "feelslike": {
+                        "metric": "15", 
+                        "english": "59"
+                  }, 
+                  "wdir": {
+                        "degrees": "312", 
+                        "dir": "NW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "43", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "61", 
+                  "uvi": "6", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "5", 
+                        "english": "3"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "12:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428519600", 
+                        "month_name": "April", 
+                        "pretty": "12:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "12", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "12", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1022", 
+                        "english": "30.19"
+                  }, 
+                  "temp": {
+                        "metric": "16", 
+                        "english": "60"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "45"
+                  }, 
+                  "feelslike": {
+                        "metric": "16", 
+                        "english": "60"
+                  }, 
+                  "wdir": {
+                        "degrees": "287", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "35", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "57", 
+                  "uvi": "7", 
+                  "pop": "1", 
+                  "wspd": {
+                        "metric": "6", 
+                        "english": "4"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "1:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428523200", 
+                        "month_name": "April", 
+                        "pretty": "1:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "13", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "13", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1022", 
+                        "english": "30.18"
+                  }, 
+                  "temp": {
+                        "metric": "16", 
+                        "english": "61"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "16", 
+                        "english": "61"
+                  }, 
+                  "wdir": {
+                        "degrees": "281", 
+                        "dir": "W"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "25", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Mostly Sunny", 
+                  "humidity": "53", 
+                  "uvi": "7", 
+                  "pop": "1", 
+                  "wspd": {
+                        "metric": "10", 
+                        "english": "6"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "2:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428526800", 
+                        "month_name": "April", 
+                        "pretty": "2:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "14", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "14", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1021", 
+                        "english": "30.16"
+                  }, 
+                  "temp": {
+                        "metric": "16", 
+                        "english": "61"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "16", 
+                        "english": "61"
+                  }, 
+                  "wdir": {
+                        "degrees": "288", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "14", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Sunny", 
+                  "humidity": "54", 
+                  "uvi": "5", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "14", 
+                        "english": "9"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "3:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428530400", 
+                        "month_name": "April", 
+                        "pretty": "3:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "15", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "15", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1021", 
+                        "english": "30.15"
+                  }, 
+                  "temp": {
+                        "metric": "16", 
+                        "english": "60"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "16", 
+                        "english": "60"
+                  }, 
+                  "wdir": {
+                        "degrees": "289", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "11", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Sunny", 
+                  "humidity": "56", 
+                  "uvi": "4", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "16", 
+                        "english": "10"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "4:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428534000", 
+                        "month_name": "April", 
+                        "pretty": "4:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "16", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "16", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1021", 
+                        "english": "30.14"
+                  }, 
+                  "temp": {
+                        "metric": "15", 
+                        "english": "59"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "15", 
+                        "english": "59"
+                  }, 
+                  "wdir": {
+                        "degrees": "287", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "9", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Sunny", 
+                  "humidity": "59", 
+                  "uvi": "2", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "19", 
+                        "english": "12"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "5:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428537600", 
+                        "month_name": "April", 
+                        "pretty": "5:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "17", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "17", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.13"
+                  }, 
+                  "temp": {
+                        "metric": "14", 
+                        "english": "57"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "14", 
+                        "english": "57"
+                  }, 
+                  "wdir": {
+                        "degrees": "287", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "10", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Sunny", 
+                  "humidity": "62", 
+                  "uvi": "1", 
+                  "pop": "0", 
+                  "wspd": {
+                        "metric": "18", 
+                        "english": "11"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "6:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428541200", 
+                        "month_name": "April", 
+                        "pretty": "6:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "18", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "18", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.12"
+                  }, 
+                  "temp": {
+                        "metric": "13", 
+                        "english": "55"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "13", 
+                        "english": "55"
+                  }, 
+                  "wdir": {
+                        "degrees": "287", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "8", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Sunny", 
+                  "humidity": "65", 
+                  "uvi": "0", 
+                  "pop": "1", 
+                  "wspd": {
+                        "metric": "16", 
+                        "english": "10"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "7:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428544800", 
+                        "month_name": "April", 
+                        "pretty": "7:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "19", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "19", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.12"
+                  }, 
+                  "temp": {
+                        "metric": "12", 
+                        "english": "54"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "12", 
+                        "english": "54"
+                  }, 
+                  "wdir": {
+                        "degrees": "292", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "12", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "69", 
+                  "uvi": "0", 
+                  "pop": "1", 
+                  "wspd": {
+                        "metric": "13", 
+                        "english": "8"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "8:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428548400", 
+                        "month_name": "April", 
+                        "pretty": "8:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "20", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "20", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.12"
+                  }, 
+                  "temp": {
+                        "metric": "12", 
+                        "english": "53"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "12", 
+                        "english": "53"
+                  }, 
+                  "wdir": {
+                        "degrees": "301", 
+                        "dir": "WNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "2", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "71", 
+                  "uvi": "0", 
+                  "pop": "1", 
+                  "wspd": {
+                        "metric": "10", 
+                        "english": "6"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "9:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428552000", 
+                        "month_name": "April", 
+                        "pretty": "9:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "21", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "21", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.13"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "wdir": {
+                        "degrees": "315", 
+                        "dir": "NW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "0", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "72", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "6", 
+                        "english": "4"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "10:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428555600", 
+                        "month_name": "April", 
+                        "pretty": "10:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "22", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "22", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.12"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "52"
+                  }, 
+                  "wdir": {
+                        "degrees": "329", 
+                        "dir": "NNW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "0", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "75", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "5", 
+                        "english": "3"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "11:00 PM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "97", 
+                        "weekday_name_night": "Wednesday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "08", 
+                        "weekday_name": "Wednesday", 
+                        "epoch": "1428559200", 
+                        "month_name": "April", 
+                        "pretty": "11:00 PM PDT on April 08, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Wednesday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "23", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Wednesday", 
+                        "mday": "8", 
+                        "hour": "23", 
+                        "ampm": "PM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Wed"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.12"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "wdir": {
+                        "degrees": "325", 
+                        "dir": "NW"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "5", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "76", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "3", 
+                        "english": "2"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "12:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428562800", 
+                        "month_name": "April", 
+                        "pretty": "12:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "00", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "0", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1020", 
+                        "english": "30.11"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "wdir": {
+                        "degrees": "353", 
+                        "dir": "N"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "12", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "76", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "2", 
+                        "english": "1"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "1:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428566400", 
+                        "month_name": "April", 
+                        "pretty": "1:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "01", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "1", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1019", 
+                        "english": "30.1"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "33", 
+                        "dir": "NNE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "15", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "77", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "0", 
+                        "english": "0"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "2:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428570000", 
+                        "month_name": "April", 
+                        "pretty": "2:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "02", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "2", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1019", 
+                        "english": "30.08"
+                  }, 
+                  "temp": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "10", 
+                        "english": "50"
+                  }, 
+                  "wdir": {
+                        "degrees": "94", 
+                        "dir": "E"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "18", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Clear", 
+                  "humidity": "77", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "0", 
+                        "english": "0"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "3:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428573600", 
+                        "month_name": "April", 
+                        "pretty": "3:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "03", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "3", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.07"
+                  }, 
+                  "temp": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "wdir": {
+                        "degrees": "103", 
+                        "dir": "ESE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "1", 
+                  "sky": "27", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Mostly Clear", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "0", 
+                        "english": "0"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "4:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428577200", 
+                        "month_name": "April", 
+                        "pretty": "4:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "04", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "4", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Clear", 
+                  "icon": "clear"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.06"
+                  }, 
+                  "temp": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "wdir": {
+                        "degrees": "115", 
+                        "dir": "ESE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "34", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "2", 
+                        "english": "1"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "5:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428580800", 
+                        "month_name": "April", 
+                        "pretty": "5:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "05", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "5", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.07"
+                  }, 
+                  "temp": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "wdir": {
+                        "degrees": "125", 
+                        "dir": "SE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "41", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "2", 
+                        "english": "1"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "6:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428584400", 
+                        "month_name": "April", 
+                        "pretty": "6:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "06", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "6", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.07"
+                  }, 
+                  "temp": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "dewpoint": {
+                        "metric": "6", 
+                        "english": "43"
+                  }, 
+                  "feelslike": {
+                        "metric": "9", 
+                        "english": "49"
+                  }, 
+                  "wdir": {
+                        "degrees": "131", 
+                        "dir": "SE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "47", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "2", 
+                        "english": "1"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "7:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428588000", 
+                        "month_name": "April", 
+                        "pretty": "7:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "07", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "7", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1018", 
+                        "english": "30.07"
+                  }, 
+                  "temp": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "dewpoint": {
+                        "metric": "7", 
+                        "english": "44"
+                  }, 
+                  "feelslike": {
+                        "metric": "11", 
+                        "english": "51"
+                  }, 
+                  "wdir": {
+                        "degrees": "139", 
+                        "dir": "SE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "53", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "78", 
+                  "uvi": "0", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "2", 
+                        "english": "1"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "8:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428591600", 
+                        "month_name": "April", 
+                        "pretty": "8:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "08", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "8", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }, 
+            {
+                  "windchill": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "heatindex": {
+                        "metric": "-9999", 
+                        "english": "-9999"
+                  }, 
+                  "mslp": {
+                        "metric": "1019", 
+                        "english": "30.08"
+                  }, 
+                  "temp": {
+                        "metric": "12", 
+                        "english": "54"
+                  }, 
+                  "dewpoint": {
+                        "metric": "8", 
+                        "english": "46"
+                  }, 
+                  "feelslike": {
+                        "metric": "12", 
+                        "english": "54"
+                  }, 
+                  "wdir": {
+                        "degrees": "136", 
+                        "dir": "SE"
+                  }, 
+                  "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif", 
+                  "qpf": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "fctcode": "2", 
+                  "sky": "55", 
+                  "snow": {
+                        "metric": "0", 
+                        "english": "0.0"
+                  }, 
+                  "wx": "Partly Cloudy", 
+                  "humidity": "74", 
+                  "uvi": "1", 
+                  "pop": "2", 
+                  "wspd": {
+                        "metric": "2", 
+                        "english": "1"
+                  }, 
+                  "FCTTIME": {
+                        "min_unpadded": "0", 
+                        "civil": "9:00 AM", 
+                        "mon_padded": "04", 
+                        "sec": "0", 
+                        "month_name_abbrev": "Apr", 
+                        "year": "2015", 
+                        "yday": "98", 
+                        "weekday_name_night": "Thursday Night", 
+                        "isdst": "1", 
+                        "min": "00", 
+                        "mday_padded": "09", 
+                        "weekday_name": "Thursday", 
+                        "epoch": "1428595200", 
+                        "month_name": "April", 
+                        "pretty": "9:00 AM PDT on April 09, 2015", 
+                        "mon_abbrev": "Apr", 
+                        "weekday_name_night_unlang": "Thursday Night", 
+                        "tz": "", 
+                        "UTCDATE": "", 
+                        "hour_padded": "09", 
+                        "mon": "4", 
+                        "weekday_name_unlang": "Thursday", 
+                        "mday": "9", 
+                        "hour": "9", 
+                        "ampm": "AM", 
+                        "age": "", 
+                        "weekday_name_abbrev": "Thu"
+                  }, 
+                  "condition": "Partly Cloudy", 
+                  "icon": "partlycloudy"
+            }
+      ], 
+      "response": {
+            "termsofService": "http://www.wunderground.com/weather/api/d/terms.html", 
+            "version": "0.1", 
+            "features": {
+                  "hourly": 1
+            }
+      }
+}
