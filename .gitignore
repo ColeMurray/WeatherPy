@@ -5,3 +5,5 @@ APIKEY.py
 *.json
 
 .DS_STORE
+
+/static/img/*

@@ -9,16 +9,15 @@ for key,value in weather_data.iteritems():
     print value[0]
     print value[1]
 
-@app.route('/')
+@app.route('/', methods = ['GET','POST'])
 def index():
-    return render_template("index.html",weather_data=weather_data)
+    if request.method == 'POST':
+        query = request.form['city']
+        global weather_data
+        weather_data = getWeather_pub(query)
+        return render_template("index.html",weather_data=weather_data, cityName=query)
 
-@app.route('/search', methods = ['POST'])
-def search():    
-    query = request.form['city']
-    global weather_data
-    weather_data = getWeather_pub (query)
-    return redirect( url_for('index'))
+    return render_template ("index.html", weather_data=weather_data)
 
 if __name__ == '__main__':
     app.run(debug=True)

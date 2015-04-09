@@ -1,21 +1,26 @@
 {% extends "base.html" %}
 {% block content %}
 <div class = "jumbo">
+    {% if cityName %}
+        <h2> {{ cityName }} </h2>
+    {% else %}
     <h2> Enter Your US City </h2>
-    <!--<form class = "center-searchbar" action= "{{ url_for ('search') }}" method="POST">
+    {% endif %}
+    <!--<form class = "center-searchbar" action= "{{ url_for ('index') }}" method="POST">
         <input type="text" name="city" placeholder='New_York'  > </form> -->
     <div class = "center-select">
-        <form name="city" action = "{{ url_for ('search') }}" method = "POST">
+        <form name="city" action = "{{ url_for ('index') }}" method = "POST">
              <select name="city" onchange="submit()">
+                <option> Select a city </option>
                 <option value="San_Francisco">San Francisco</option>
-                <option value="Riverside">Riverside </option>
+                <option value="Riverside">Riverside</option>
                 <option value ="New_York">New York</option>
              </select>
         </form>
     </div>
 </div>
 
-<div>     
+<div id="switchDiv">     
     <table class = "centered-table">
             <tr>
                 <th> Time </th>
@@ -29,4 +34,28 @@
             {% endfor %}
     </table>
 </div>
+
+<script>
+    var backgroundMap = {};
+    backgroundMap['San_Francisco'] = '/static/img/san_francisco.jpg';
+    backgroundMap['Riverside'] = '/static/img/riverside.jpg';
+    backgroundMap['New_York'] = '/static/img/new_york.jpg';
+
+    function get(k){
+        return backgroundMap[k];
+    }
+    $(document).ready(function () {
+        loadBackground();
+    });
+
+    function loadBackground(){
+        {% if cityName %}
+            var city = "{{ cityName }}";
+            var imgUrl = backgroundMap[ city ];
+            $('body').css('background-image', 'url(' + imgUrl + ')');
+        {% else %}
+            alert('First');
+        {% endif %}
+    }
+</script>
 {% endblock %}
