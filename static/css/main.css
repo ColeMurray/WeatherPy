@@ -64,9 +64,12 @@ h3 {
  */
 .centered-table {
     width: 500px;
-    margin-left: auto;
-    margin-right: auto;
+    height: auto;
+    margin-top: 13%;
+    margin-left:auto;
+    margin-right:auto;
     padding: 20px;
+    font-size: 32px;
 }
  
 th {
@@ -77,7 +80,7 @@ th {
 }
  
 td {
-    text-align: right;
+    text-align: left;
     font-family: Verdana;
     color: #646464;
 }
@@ -87,4 +90,12 @@ td {
  */
 .header {
     text-align: right;
+}
+
+.center-searchbar {
+    text-align:center;
+}
+
+.center-select {
+    text-align:center;
 }

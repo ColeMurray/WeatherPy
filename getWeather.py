@@ -4,12 +4,11 @@ from urllib2 import Request, urlopen, URLError
 import json
 from collections import defaultdict
 from APIKEY import APIKEY
-def getWeather():
-    weather = urlopen('http://api.wunderground.com/api/' + APIKEY + '/hourly/q/CA/San_Francisco.json')
+def getWeather(cityname):
+    weather = urlopen('http://api.wunderground.com/api/' + APIKEY + '/hourly/q/CA/' + cityname + '.json')
     json_response = weather.read()
     parsedResponse = json.loads(json_response)
-    print "YOO"
-    filename = "SF" + '.json'
+    filename = cityname + '.json'
     with open(filename,"wb") as outfile:
         json.dump(parsedResponse,outfile,indent=6)
 
@@ -29,5 +28,8 @@ def getWeatherFromFile(filename):
     weather_data[0].append(condition)
     return weather_data
 
-
+def getWeather_pub(cityname):
+    getWeather(cityname)
+    weather_data = getWeatherFromFile(cityname + '.json')
+    return weather_data
 

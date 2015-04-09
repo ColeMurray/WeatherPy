@@ -2,3 +2,6 @@
 venv
 APIKEY.py
 *.pyc
+*.json
+
+.DS_STORE

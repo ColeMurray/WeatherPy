@@ -1,23 +1,32 @@
 {% extends "base.html" %}
 {% block content %}
 <div class = "jumbo">
-    <h2> SF | CA </h2>
-    <h3> Current Hour Forecast </h3>
+    <h2> Enter Your US City </h2>
+    <!--<form class = "center-searchbar" action= "{{ url_for ('search') }}" method="POST">
+        <input type="text" name="city" placeholder='New_York'  > </form> -->
+    <div class = "center-select">
+        <form name="city" action = "{{ url_for ('search') }}" method = "POST">
+             <select name="city" onchange="submit()">
+                <option value="San_Francisco">San Francisco</option>
+                <option value="Riverside">Riverside </option>
+                <option value ="New_York">New York</option>
+             </select>
+        </form>
+    </div>
 </div>
 
-<div> {% for key, value in weather_data.iteritems() %} 
-    <table class = "centered_table">
-        <tbody>
+<div>     
+    <table class = "centered-table">
             <tr>
                 <th> Time </th>
                 <th> Condition </th>
             </tr>
+            {% for key, value in weather_data.iteritems() %} 
             <tr>
-                <th> {{value[0]}}</th>
-                <th> {{value[1]}}</th>
+                <td> {{value[0]}}</td>
+                <td> {{value[1]}}</td>
             </tr>
-        </tbody>
-        {% endfor %}
+            {% endfor %}
     </table>
 </div>
 {% endblock %}
