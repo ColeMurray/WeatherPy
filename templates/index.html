@@ -3,6 +3,9 @@
 <div class = "jumbo">
     {% if cityName %}
         <h2> {{ cityName }} </h2>
+        <h3>  {% for key,value in weather_data.iteritems() %} {{value[0]}} {{value[1]}} {% endfor %}
+        </h3>
+
     {% else %}
     <h2> Enter Your US City </h2>
     {% endif %}
@@ -19,22 +22,6 @@
         </form>
     </div>
 </div>
-
-<div id="switchDiv">     
-    <table class = "centered-table">
-            <tr>
-                <th> Time </th>
-                <th> Condition </th>
-            </tr>
-            {% for key, value in weather_data.iteritems() %} 
-            <tr>
-                <td> {{value[0]}}</td>
-                <td> {{value[1]}}</td>
-            </tr>
-            {% endfor %}
-    </table>
-</div>
-
 <script>
     var backgroundMap = {};
     backgroundMap['San_Francisco'] = '/static/img/san_francisco.jpg';
@@ -53,8 +40,6 @@
             var city = "{{ cityName }}";
             var imgUrl = backgroundMap[ city ];
             $('body').css('background-image', 'url(' + imgUrl + ')');
-        {% else %}
-            alert('First');
         {% endif %}
     }
 </script>
